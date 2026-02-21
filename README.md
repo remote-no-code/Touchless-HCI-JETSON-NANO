@@ -43,7 +43,7 @@ pip3 install -r requirements.txt
 2. Run the main execution script:
 
 ```bash
-python3 ARM5.py
+python3 arm.py
 
 ```
 
